@@ -1,0 +1,40 @@
+//Recipe Name,time,
+//INPUT/OUTPUT,Resource,Quantity
+Solar Panel,4,
+OUTPUT,Heat,1
+OUTPUT,Power,1
+,,
+Crew Member,1,
+INPUT,Water,1
+INPUT,O2,1
+INPUT,Food,1
+OUTPUT,CO2,1
+OUTPUT,Biowaste,1
+OUTPUT,Labor,0.1
+,,
+Bioplant,1,
+INPUT,CO2,4
+INPUT,Biowaste,4
+INPUT,Power,1
+INPUT,Labor,0.1
+OUTPUT,Water,4
+OUTPUT,O2,4
+OUTPUT,Food,4
+,,
+Iron Smelter,10,
+INPUT,Power,10
+INPUT,Iron Ore,10
+INPUT,Carbon,0.1
+OUTPUT,Steel,1
+OUTPUT,Slag,9
+OUTPUT,Heat,10
+,,
+Heat Sink,1,
+INPUT,Heat,10
+,,
+Nuclear Reactor,1,
+INPUT,Power,1
+INPUT,Uranium,1
+OUTPUT,Radioactive Slag,1
+OUTPUT,Heat,10
+OUTPUT,Power,10

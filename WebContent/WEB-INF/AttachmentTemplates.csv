@@ -1,0 +1,43 @@
+//Attachment,Recipe,Overhaul Recipe,Max Iteration Counts,dimensions,Mode,FailedInputDamage,FailedOutputDamage,lowInputThreshold,lowOutputThreshold,highInputThreshold,highOutputThreshold
+//STORAGE,resource,quantity,maxquantity,,,,,,,,
+Crew Quarters,Crew Member,,10000,"[1,1,1]",ON__,0.01,0.01,0.1,0.1,0.9,0.9
+STORAGE,Labor,50,100,,,,,,,,
+,,,,,,,,,,,
+Bioplant,Bioplant,,100,"[1,1,1]",AUTO,0.01,0.01,0.1,0.1,0.9,0.9
+STORAGE,Water,50,200,,,,,,,,
+STORAGE,O2,50,200,,,,,,,,
+STORAGE,CO2,50,200,,,,,,,,
+STORAGE,Food,50,200,,,,,,,,
+STORAGE,Biowaste,50,200,,,,,,,,
+,,,,,,,,,,,
+Iron Smelter,Iron Smelter,,10,"[1,1,1]",AUTO,0,0.01,0.1,0.1,0.9,0.9
+,,,,,,,,,,,
+Heat Sink,Heat Sink,,10000,"[1,1,1]",AUTO,0,0.01,0.1,0.1,0.9,0.9
+STORAGE,Heat,50,100,,,,,,,,
+,,,,,,,,,,,
+Solar Panel,Solar Panel,,10000,"[1,1,1]",AUTO,0,0.01,0.1,0.1,0.9,0.9
+,,,,,,,,,,,
+Nuclear Reactor,Nuclear Reactor,,1000,"[1,1,1]",AUTO,0,0.01,0.1,0.1,0.9,0.9
+,,,,,,,,,,,
+Battery Bank,,,10000,"[1,1,1]",AUTO,0,0.01,0.1,0.1,0.9,0.9
+STORAGE,Power,50,100,"[1,1,1]",,,,,,,
+,,,,,,,,,,,
+Storage Unit,,,100000,"[1,1,1]",AUTO,0,0,0.1,0.1,0.9,0.9
+STORAGE,Uranium Ore,50,100,,,,,,,,
+STORAGE,Iron Ore,50,100,,,,,,,,
+STORAGE,Copper Ore,50,100,,,,,,,,
+STORAGE,Aluminium Ore,50,100,,,,,,,,
+STORAGE,Silver Ore,50,100,,,,,,,,
+STORAGE,Gold Ore,50,100,,,,,,,,
+STORAGE,Platinum Ore,50,100,,,,,,,,
+STORAGE,Slag,50,100,,,,,,,,
+STORAGE,Radioactive Slag,50,100,,,,,,,,
+STORAGE,Uranium  ,50,100,,,,,,,,
+STORAGE,Steel,50,100,,,,,,,,
+STORAGE,Copper  ,50,100,,,,,,,,
+STORAGE,Aluminium  ,50,100,,,,,,,,
+STORAGE,Silver  ,50,100,,,,,,,,
+STORAGE,Gold  ,50,100,,,,,,,,
+STORAGE,Platinum  ,50,100,,,,,,,,
+STORAGE,Silicon,50,100,,,,,,,,
+STORAGE,Carbon,50,100,,,,,,,,

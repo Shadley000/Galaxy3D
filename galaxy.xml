@@ -1,0 +1,26 @@
+<GALAXY name="GalaxyTest">
+<SOLARSYSTEM name="Solar System 1">
+<ENTITY name="Entity1">
+</ENTITY>
+<ENTITY name="Entity2">
+</ENTITY>
+<ENTITY name="Entity3">
+</ENTITY>
+</SOLARSYSTEM>
+<SOLARSYSTEM name="Solar System 2">
+<ENTITY name="Entity4">
+</ENTITY>
+<ENTITY name="Entity5">
+</ENTITY>
+<ENTITY name="Entity6">
+</ENTITY>
+</SOLARSYSTEM>
+<SOLARSYSTEM name="Solar System 3">
+<ENTITY name="Entity7">
+</ENTITY>
+<ENTITY name="Entity8">
+</ENTITY>
+<ENTITY name="Entity9">
+</ENTITY>
+</SOLARSYSTEM>
+</GALAXY>

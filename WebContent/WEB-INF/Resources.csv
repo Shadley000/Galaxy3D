@@ -1,0 +1,27 @@
+//Name, Density," 	Type"," 	Units",Disposable,Damaging
+Power," 	0"," 	Other"," 	Kw",FALSE,TRUE
+Heat," 	0"," 	Other"," 	Kw",FALSE,TRUE
+Water," 	1"," 	Liquid"," 	l",FALSE,FALSE
+O2," 	0.01"," 	Gas"," 	l",FALSE,FALSE
+CO2," 	0.01"," 	Gas"," 	l",FALSE,FALSE
+Food," 	1"," 	Solid"," 	Kg",FALSE,FALSE
+Biowaste," 	1"," 	Solid"," 	Kg",FALSE,TRUE
+Labor," 	0"," 	Other",s,TRUE,FALSE
+Uranium Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Iron Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Copper Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Aluminium Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Silver Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Gold Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Platinum Ore," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Slag," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Radioactive Slag," 	2.5"," 	Solid"," 	kg",FALSE,TRUE
+Uranium  ," 	10"," 	Solid"," 	kg",FALSE,FALSE
+Steel," 	8"," 	Solid"," 	kg",FALSE,FALSE
+Copper  ," 	7"," 	Solid"," 	kg",FALSE,FALSE
+Aluminium  ," 	6"," 	Solid"," 	kg",FALSE,FALSE
+Silver  ," 	8"," 	Solid"," 	kg",FALSE,FALSE
+Gold  ," 	11"," 	Solid"," 	kg",FALSE,FALSE
+Platinum  ," 	10"," 	Solid"," 	kg",FALSE,FALSE
+Silicon," 	2.5"," 	Solid"," 	kg",FALSE,FALSE
+Carbon," 	2"," 	Solid"," 	kg",FALSE,FALSE

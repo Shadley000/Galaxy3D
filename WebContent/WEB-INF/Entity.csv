@@ -1,0 +1,13 @@
+"//entity name	",
+NAME,Planet
+IMMOVABLE,TRUE
+NAME, Base
+ATTACHMENT, Crew Quarters
+ATTACHMENT, Crew Quarters
+ATTACHMENT, Crew Quarters
+ATTACHMENT, Crew Quarters
+ATTACHMENT, Bioplant
+ATTACHMENT, Heat Sink
+ATTACHMENT, Solar Panel
+ATTACHMENT, Battery Bank
+IMMOVABLE, FALSE
